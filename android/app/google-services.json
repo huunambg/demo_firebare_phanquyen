@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11644322049",
+    "project_id": "fir-admin-dfba1",
+    "storage_bucket": "fir-admin-dfba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11644322049:android:b0e6efdc3d1bdb3fe7db00",
+        "android_client_info": {
+          "package_name": "com.example.demo_phanquyen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11644322049-e11bc9ppji6f8ij6oncqate7f2nh7c06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj85rCX461rmotwJis8iE9Xm4VFz1ZT0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11644322049-e11bc9ppji6f8ij6oncqate7f2nh7c06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
